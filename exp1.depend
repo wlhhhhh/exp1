@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1509876767 source:e:\exp1\main.cpp
+	<iostream>
+	"Editor1.h"
+	"Linklist.h"
+	"string.h"
+
+1509935631 e:\exp1\editor1.h
+	"Linklist.h"
+	"String.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1509935344 e:\exp1\linklist.h
+	<iostream>
+	<string>
+	"String.h"
+
+1509334903 e:\exp1\string.h
+	<cstdio>
+	<iostream>
+	<string.h>
+
